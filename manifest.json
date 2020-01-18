@@ -1,19 +1,24 @@
 {
+  "name": "King Soopers/Kroger Coupon Clicker",
+  "version": "1.1",
+  "description": "This extension clicks on the coupons on a kings soopers/kroger coupon page",
   "manifest_version": 2,
 
-  "name": "King Soopers Coupon Clicker",
-  "description": "This extension clicks on all the loaded king soopers coupons a page",
-  "version": "1.0",
-
-  "browser_action": {
+  "browser_action":
+  {
     "default_icon": "ks.png",
     "default_popup": "popup.html"
-    },
+  },
 
-        "icons": { 
-            "16": "ks.png",
-            "48": "ks.png",
-            "128": "ks.png" },
+  "icons":
+  { 
+    "16": "ks.png",
+    "48": "ks.png",
+    "128": "ks.png"
+  },
             
-   "permissions": ["activeTab"]
+  "permissions":
+  [
+    "activeTab"
+  ]
 }
