@@ -1,7 +1,7 @@
 {
   "name": "King Soopers/Kroger Coupon Clicker",
   "version": "1.1",
-  "description": "This extension clicks on the coupons on a kings soopers/kroger coupon page",
+  "description": "This extension clicks on the coupons on a kings soopers/kroger coupon page https://www.kroger.com/cl/coupons/",
   "manifest_version": 2,
 
   "browser_action":
